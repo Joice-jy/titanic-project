@@ -1,2 +1,3 @@
-# titanic-project
-Kaggle Titanic survival prediction project
+Kaggle "Titanic: Machine Learning from Disaster"
+- Work in `notebooks/`
+- Raw data in `data/`
